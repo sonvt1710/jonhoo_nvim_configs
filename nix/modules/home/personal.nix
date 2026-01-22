@@ -269,7 +269,9 @@
 
         # GUI apps
         appimage-run
+        audacity
         fastmail-desktop
+        ffmpeg-normalize
         gimp
         google-chrome
         (rWrapper.override {
@@ -283,6 +285,7 @@
         libnotify
         libreoffice-still
         libsecret
+        magic-wormhole-rs
         marp-cli
         mpv
         obsidian
@@ -298,6 +301,7 @@
         wlr-randr
         wmctrl
         wtype
+        yt-dlp
         zathura
         zoom-us
       ];

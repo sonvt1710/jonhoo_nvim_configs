@@ -34,6 +34,7 @@
 
   environment.systemPackages = with pkgs; [
     bc
+    dig
     git
     git-lfs
     htop
@@ -43,6 +44,7 @@
     rsync
     socat
     sudo-rs
+    traceroute
     unzip
     uutils-coreutils-noprefix
     wget

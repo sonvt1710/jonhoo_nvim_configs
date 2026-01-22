@@ -34,6 +34,7 @@
           ast-grep
           bash-language-server
           bcc
+          cargo-dist
           fzf
           llmP
           llm-agents.claude-code
